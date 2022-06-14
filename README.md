@@ -14,3 +14,8 @@ Estimar a qualidade e classificar os vinhos.<br>
 - Plotly;<br>
 #### Modelos de machine learning:
 - Sklearn (regressão linear, logística, métricas e relatórios).
+
+### Equipe:
+- Ana Paula
+- Maeba
+- Nicolas
